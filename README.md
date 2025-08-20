@@ -8,7 +8,7 @@ Saat ini saya berada di semester 5, dan sedang mengikuti program [Bangkit Academ
 
 Saya memiliki ketertarikan pada Data dan Machine Learning.<br>
 
-Jika kamu tertarik untuk berkenalan dengaku, silakan ikuti akun:<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun:<br>
 * [LinkedIn](https://www.linkedin.com/in/imam-riyadi-a6662424a/)
 * [Instagram](https://www.instagram.com/imamriyadi_?igsh=MWMzZm4xOThvd3V3eg==).
 
