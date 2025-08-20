@@ -4,7 +4,7 @@ Perkenalkan nama saya **Imam Riyadi**.<br>
 
 Saya seorang **mahasiswa Teknik Informatika** di [Universitas Perjuangan Tasikmalaya](https://unper.ac.id/).<br>
 
-Saat ini saya berada di semester 5, dan sedang mengikuti program [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) di learning path Machine Learning.<br>
+Saat ini saya berada di semester 7<br>
 
 Saya memiliki ketertarikan pada Data dan Machine Learning.<br>
 
