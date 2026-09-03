@@ -1,18 +1,13 @@
-# Halo Semua 👋
+# Hi there, I'm Imam Riyadi
 
-Perkenalkan nama saya **Imam Riyadi**.<br>
+Fresh Graduate in **Informatics Engineering** from Universitas Perjuangan Tasikmalaya. An enthusiast for **Data, Machine Learning, and Artificial Intelligence**. 
 
-Saya seorang **mahasiswa Teknik Informatika** di [Universitas Perjuangan Tasikmalaya](https://unper.ac.id/).<br>
+Alongside my focus on data, I work as a **Freelance Developer**, where I occasionally build and maintain **Web Development** projects. Open to Entry-level roles, internships, or freelance collaboration in Web Development, Data Analyst, and ML Engineering.
 
-Saat ini saya berada di semester 7<br>
-
-Saya memiliki ketertarikan pada Data dan Machine Learning.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun:<br>
-* [LinkedIn](https://www.linkedin.com/in/imam-riyadi-a6662424a/)
-* [Instagram](https://www.instagram.com/imamriyadi_?igsh=MWMzZm4xOThvd3V3eg==).
+---
 
 ### GitHub Statistic
+
 <p align="left">
 <a href="https://github.com/mamyadi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamyadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -20,17 +15,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun:<br>
 </a>
 </p>
 
-<!--
-**mamyadi/mamyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://linkedin.com/imamriyadii)
+- [Instagram](https://www.linkedin.com/in/imamriyadii)
