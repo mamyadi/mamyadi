@@ -1,10 +1,12 @@
 # Hola... I'm Imam Riyadi
 
-Fresh Graduate in **Informatics Engineering** from Universitas Perjuangan Tasikmalaya. An enthusiast for **Cybersecurity and AI/ML**.
+Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasikmalaya with a strong enthusiasm for Cybersecurity and AI/ML. 
 
-I work as a **Freelance**, where I occasionally build and maintain **Web Development** projects.
+Experienced in freelance web development alongside in operational administration, academic data management, and document verification.
 
-Open to Entry-level roles, internships, or freelance collaboration in Web Development.
+Proficient in systematic problem solving using tools such as Excel, Sheets, and Python. 
+
+Open to entry-level roles, internship, part-time, full-time or freelance collaborations across Web Development, Data Operations, and Technology Administration.
 
 ---
 
